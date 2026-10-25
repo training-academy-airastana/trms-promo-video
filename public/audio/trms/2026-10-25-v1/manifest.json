@@ -1,0 +1,123 @@
+{
+  "productionId": "2026-10-25-v1",
+  "durationSeconds": 60,
+  "sampleRate": 48000,
+  "channels": 2,
+  "voiceName": "George - Warm, Captivating Storyteller",
+  "voiceId": "JBFqnCBsd6RMkjVDRZzb",
+  "modelId": "eleven_v4",
+  "musicModelId": "music_v2",
+  "voiceCues": [
+    {
+      "id": "01-opening",
+      "start": 1.1,
+      "end": 4.35,
+      "text": "Training is everywhere.",
+      "actualEnd": 2.88,
+      "actualDuration": 1.78,
+      "trimBefore": 0.0,
+      "trimAfter": 0.06,
+      "gainDb": 1.4536672037677172
+    },
+    {
+      "id": "02-chaos",
+      "start": 5.0,
+      "end": 10.5,
+      "text": "Scattered records. Disconnected teams. No clear overview.",
+      "actualEnd": 9.88,
+      "actualDuration": 4.88,
+      "trimBefore": 0.0,
+      "trimAfter": 0.0,
+      "gainDb": 2.6847552967717414
+    },
+    {
+      "id": "03-resolution",
+      "start": 11.45,
+      "end": 15.2,
+      "text": "Leave the chaos in the past.",
+      "actualEnd": 13.39,
+      "actualDuration": 1.94,
+      "trimBefore": 0.0,
+      "trimAfter": 0.3,
+      "gainDb": 2.4095802770916555
+    },
+    {
+      "id": "04-connected",
+      "start": 19.7,
+      "end": 27.6,
+      "text": "People. Schedules. Progress. One system to bring it all together.",
+      "actualEnd": 25.28,
+      "actualDuration": 5.58,
+      "trimBefore": 0.0,
+      "trimAfter": 0.34,
+      "gainDb": 2.0547574465598326
+    },
+    {
+      "id": "05-training",
+      "start": 30.7,
+      "end": 34.8,
+      "text": "Every training, connected.",
+      "actualEnd": 32.7,
+      "actualDuration": 2.0,
+      "trimBefore": 0.0,
+      "trimAfter": 0.32,
+      "gainDb": 1.669900366803614
+    },
+    {
+      "id": "06-participation",
+      "start": 36.2,
+      "end": 40.8,
+      "text": "Every participation. A clearer picture of progress.",
+      "actualEnd": 40.04,
+      "actualDuration": 3.84,
+      "trimBefore": 0.0,
+      "trimAfter": 0.32,
+      "gainDb": 2.3817768250557134
+    },
+    {
+      "id": "07-certificates",
+      "start": 43.4,
+      "end": 50.7,
+      "text": "Every achievement, recognised. Every certificate, accounted for.",
+      "actualEnd": 48.24,
+      "actualDuration": 4.84,
+      "trimBefore": 0.0,
+      "trimAfter": 0.36,
+      "gainDb": 1.9636863039430985
+    },
+    {
+      "id": "08-brand",
+      "start": 53.8,
+      "end": 56.15,
+      "text": "T. R. M. S.",
+      "actualEnd": 55.26,
+      "actualDuration": 1.46,
+      "trimBefore": 0.0,
+      "trimAfter": 0.3,
+      "gainDb": 1.9955251268821237
+    },
+    {
+      "id": "09-signoff",
+      "start": 56.5,
+      "end": 59.15,
+      "text": "Training, connected.",
+      "actualEnd": 58.18,
+      "actualDuration": 1.68,
+      "trimBefore": 0.0,
+      "trimAfter": 0.08,
+      "gainDb": 1.3560863986521863
+    }
+  ],
+  "musicDuckDb": -8,
+  "masterGainDb": 4.670000000000002,
+  "limiterMaximumReductionDb": 3.7994632720947266,
+  "integratedLufs": -16.24,
+  "truePeakDbtp": -1.36,
+  "loudnessRangeLu": 4.1,
+  "stems": [
+    "narration.wav",
+    "music-ducked.wav",
+    "light-air.wav"
+  ],
+  "master": "master.wav"
+}

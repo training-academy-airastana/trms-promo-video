@@ -1,0 +1,31 @@
+{
+  "title": "TRMS — Everything Connected",
+  "durationSeconds": 60,
+  "productionId": "2026-10-25-v1",
+  "illustrativeData": true,
+  "dataLabel": "Illustrative data",
+  "voiceId": "JBFqnCBsd6RMkjVDRZzb",
+  "voiceName": "George - Warm, Captivating Storyteller",
+  "modelId": "eleven_v4",
+  "outputFormat": "mp3_44100_192",
+  "voiceSettings": { "stability": 0.7, "similarityBoost": 0.65, "speed": 0.95, "useSpeakerBoost": true },
+  "direction": "Calm, confident English narration with room to breathe. Warm, restrained brand film delivery. Pronounce TRMS as four separate letters. No imitation of the reference narrator. Illustrative statistics are deliberately not spoken as verified achievements.",
+  "scenes": [
+    { "id": "01-opening", "start": 1.1, "end": 4.35, "text": "Training is everywhere." },
+    { "id": "02-chaos", "start": 5.0, "end": 10.5, "text": "Scattered records. Disconnected teams. No clear overview." },
+    { "id": "03-resolution", "start": 11.45, "end": 15.2, "text": "Leave the chaos in the past." },
+    { "id": "04-connected", "start": 19.7, "end": 27.6, "text": "People. Schedules. Progress. One system to bring it all together." },
+    { "id": "05-training", "start": 30.7, "end": 34.8, "text": "Every training, connected." },
+    { "id": "06-participation", "start": 36.2, "end": 40.8, "text": "Every participation. A clearer picture of progress." },
+    { "id": "07-certificates", "start": 43.4, "end": 50.7, "text": "Every achievement, recognised. Every certificate, accounted for." },
+    { "id": "08-brand", "start": 53.8, "end": 56.15, "text": "T. R. M. S." },
+    { "id": "09-signoff", "start": 56.5, "end": 59.15, "text": "Training, connected." }
+  ],
+  "music": {
+    "modelId": "music_v2",
+    "outputFormat": "mp3_48000_192",
+    "musicLengthMs": 60000,
+    "forceInstrumental": true,
+    "prompt": "Compose an original 60-second instrumental score for a premium technology brand film called TRMS, training connected. Sophisticated, spacious, tactile electronic music with warm analog synth pads, a rounded restrained bass pulse, delicate glass-like mallet notes, subtle organic percussion, and a quiet sense of forward momentum. Around 90 BPM, with ample space in the midrange for a calm male voiceover. No vocals, choir, spoken words, corporate stock ukulele, rock guitar, aggressive EDM drops or trailer brass. Start with soft suspended textures and scattered delicate notes for 0-10 seconds. Build a beautiful gentle light swell at 11-13 seconds, then resolve into an ordered pulse as scattered blocks form a cube at 13-18 seconds. From 18-29 seconds introduce a precise, understated rhythmic pattern suggesting connection. From 29-42 seconds open the stereo image and gently lift the harmony for scale and progress. From 42-52 seconds soften the percussion and add warm sustained notes for recognition and achievement. From 52 seconds create a confident graceful final harmonic lift, arriving at a resolved chord around 57 seconds, with a natural reverb tail to 60 seconds. Elegant cinematic detail, clear dynamics, no abrupt cuts, no busy lead melody. Keep the first few seconds intimate and the finale uplifting but restrained."
+  }
+}

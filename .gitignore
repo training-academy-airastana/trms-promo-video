@@ -1,0 +1,14 @@
+# Local credentials and environment files
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+node_modules/
+/output/
+# Rebuildable mixdowns; keep source recordings and the three playback stems.
+/public/audio/trms/**/master.wav
+/public/audio/trms/**/premaster.wav
+.DS_Store
+Thumbs.db
+*.log
